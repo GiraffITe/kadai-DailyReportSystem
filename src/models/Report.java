@@ -102,7 +102,7 @@ public class Report {
     }
 
     public Timestamp getUpdated_at() {
-        return updated_at;
+        return update_at;
     }
 
     public void setUpdate_at(Timestamp update_at) {
